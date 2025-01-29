@@ -26,4 +26,8 @@ Aguarde as dependências serem baixadas.
 
 Execute o aplicativo em um emulador ou dispositivo físico.
 
-![App Frases do Dia](https://github.com/osmarDesenvolvedorDeSoftware/AppFrases/blob/master/app/src/main/res/drawable/Screenshot_20250128_174717.png)
+## Capturas de Tela
+
+*Descrição da Tela do APP*  
+<img src="https://github.com/osmarDesenvolvedorDeSoftware/AppFrases/blob/master/app/src/main/res/drawable/Screenshot_20250128_174717.png" alt="Tela Inicial" width="300"/>
+
